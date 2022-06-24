@@ -116,3 +116,14 @@ since this is driven by an API, we should support a bulk load facility.  the dat
 
 
 ```
+
+resource links:
+
+- [json schema](https://ajv.js.org/)
+- [javascript aggregates](https://stackoverflow.com/questions/11199653/javascript-sum-and-group-by-of-json-data)
+- [electron todo list](https://codeburst.io/build-a-todo-app-with-electron-d6c61f58b55a)
+- [markdown basic syntax reference](https://www.markdownguide.org/basic-syntax/)
+
+
+
+
